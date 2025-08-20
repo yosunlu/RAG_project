@@ -1,0 +1,15 @@
+# Milvus
+milvus_data/
+etcd_data/
+etcd_data/member/
+
+# MinIO
+minio_data/
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+.DS_Store
